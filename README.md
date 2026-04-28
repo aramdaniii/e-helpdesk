@@ -1,4 +1,4 @@
-# IT Service Desk - Diaspora
+# IT Service Desk 
 
 A modern IT Service Desk application built with Laravel 11 and Filament v3 for efficient ticket management and issue tracking.
 
