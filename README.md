@@ -4,7 +4,7 @@ A modern IT Service Desk application built with Laravel 11 and Filament v3 for e
 
 ## Description
 
-IT Service Desk - Diaspora is a comprehensive helpdesk system designed to streamline the process of reporting, tracking, and resolving technical issues. It provides role-based access control, real-time statistics, and a user-friendly interface for both administrators and end-users.
+IT Service Desk - is a comprehensive helpdesk system designed to streamline the process of reporting, tracking, and resolving technical issues. It provides role-based access control, real-time statistics, and a user-friendly interface for both administrators and end-users.
 
 ## Tech Stack
 
